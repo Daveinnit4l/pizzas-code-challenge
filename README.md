@@ -2,16 +2,6 @@
 For this assessment, you'll be working with a Pizza Restaurant domain.
 Note: You are required to come up with a fully built React frontend application, so you can test if your API is working. A fully functional front end will also be assessed for this code challenge.
 
-## SCREENSHOT
-![Screenshot from 2024-01-21 14-53-53](https://github.com/eceechain/Phase-4-Code-Challenge-Pizzas-Ecee/assets/144310680/e67921f0-619e-43e1-bd8e-2e4a997402da)
-
-![Screenshot from 2024-01-21 14-54-05](https://github.com/eceechain/Phase-4-Code-Challenge-Pizzas-Ecee/assets/144310680/a7629de6-d932-44b7-ad1e-b3b7786e73e2)
-
-
-![Screenshot from 2024-01-21 15-06-50](https://github.com/eceechain/Phase-4-Code-Challenge-Pizzas-Ecee/assets/144310680/b93da9cd-c485-48e8-a0b8-60d191325c25)
-
-
-![Screenshot from 2024-01-21 14-54-24](https://github.com/eceechain/Phase-4-Code-Challenge-Pizzas-Ecee/assets/144310680/faa97a6e-3b72-4a54-9206-114791d0f764)
 
 ## Models
 You need to create the following relationships:
@@ -108,9 +98,3 @@ If the `RestaurantPizza` is **not** created successfully, return the following J
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## Contact
-For any inquiries, please contact:
-
-#### Name: [Jared Amima]
-
-#### Email: [jaredamima4@gmail.com]
