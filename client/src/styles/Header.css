@@ -1,0 +1,26 @@
+
+header {
+    background: linear-gradient(to right, #87CEEB, #0077cc);
+    padding: 20px;
+    text-align: center;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  Link {
+    text-decoration: none;
+    color: #fff;
+    font-size: 24px;
+    margin-top: 10px;
+    display: inline-block;
+    padding: 8px 16px; 
+    border: 2px solid #fff; 
+    border-radius: 5px; 
+    transition: background-color 0.3s ease;
+  }
+  
+  Link:hover {
+    background-color: #fff; 
+    color: #0077cc; 
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2); 
+  }
+  
